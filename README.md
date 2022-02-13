@@ -7,5 +7,8 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 
 Berikut daftar Volunter yang diterima:
-
+# H
+* Havizh As Haq, [Linkedin](https://www.linkedin.com/in/havizh-as-haq-398677222/).  
+# O
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+
